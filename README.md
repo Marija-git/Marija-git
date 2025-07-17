@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Marija Jovanović 👋
+🎓 BSc in Electrical Engineering and Computer Science  
+💻 Junior Full-Stack Developer
 
 <!--
 **Marija-git/Marija-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
